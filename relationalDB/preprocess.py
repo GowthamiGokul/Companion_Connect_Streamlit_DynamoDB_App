@@ -2,6 +2,7 @@ import pandas as pd
 import glob
 df=pd.read_csv('animal-data-1.csv')
 
+# Gowthami and Laxmikant contributed and helped in all functions
 def printDtypes():
     return df.dtypes
 def nullSum():

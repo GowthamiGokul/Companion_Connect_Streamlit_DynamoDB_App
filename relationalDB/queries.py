@@ -16,6 +16,7 @@ mydb = mysql.connector.connect(**config)
 engine = create_engine('sqlite:///animal_shelter.db')
 
 
+# Laxmikant Contributed and helped
 
 def display():
 
@@ -42,7 +43,7 @@ def display():
 
 
 
-
+# Gowthami Contributed and helped
 def createDB():
     # Establish a connection to the database (this will create the database file if it doesn't exist)
     conn = sqlite3.connect('animal_shelter.db')
