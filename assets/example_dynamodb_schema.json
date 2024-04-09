@@ -1,0 +1,29 @@
+{
+    "PK": "ANIMAL#15801",
+    "SK": "ANIMAL#15801",
+    "animalname": "Jadzia",
+    "breedname": "Domestic Short Hair",
+    "basecolour": "Tortie",
+    "speciesname": "Cat",
+    "sexname": "Female",
+    "age": 5,
+    "intakes": [
+      {
+        "intakedate": "2009-11-28T00:00:00Z",
+        "intakereason": "Moving",
+        "istransfer": false,
+        "sheltercode": "C09115463"
+      }
+    ],
+    "movements": [
+      {
+        "movementdate": "2017-05-13T00:00:00Z",
+        "movementtype": "Adoption"
+      }
+    ],
+    "deceasedinfo": {
+      "deceaseddate": "2017-05-14T00:00:00Z",
+      "deceasedreason": "Died in care"
+    }
+  }
+  
